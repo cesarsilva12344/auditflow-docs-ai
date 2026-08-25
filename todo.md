@@ -9,7 +9,7 @@
 - [x] Implementar modo IA com transcrição colada ou ficheiro TXT/MD; parser DOCX/PDF fica como próxima etapa.
 - [x] Persistir projetos, prompts, atas e versões geradas.
 - [x] Testar check/build, geração Qwen, cópia, estados de erro e bloqueio de permissões; auditoria de acessibilidade dedicada fica para etapa posterior.
-- [ ] Criar checkpoint e entregar a nova versão.
+- [x] Criar checkpoint e entregar a nova versão.
 
 - [x] Diferenciar claramente o fluxo de otimização do prompt: contexto bruto → prompt melhorado → execução da IA → ata revisável.
 - [x] Apresentar ao utilizador o prompt otimizado antes da geração final da ata.
