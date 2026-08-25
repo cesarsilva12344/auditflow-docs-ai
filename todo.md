@@ -31,3 +31,7 @@
 - [x] Criar sessão local HttpOnly com expiração e logout.
 - [x] Manter permissões `canUseAi` e o administrador separados do login externo.
 - [x] Validar que a aplicação funciona sem redirecionar para o Manus.
+
+- [x] Corrigir a validação para aceitar `admin/123` somente no login administrativo reservado.
+- [x] Manter mínimo de 8 caracteres no cadastro e no login de utilizadores comuns.
+- [x] Testar a senha temporária e criar novo checkpoint da correção.
